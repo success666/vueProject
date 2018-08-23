@@ -1,0 +1,23 @@
+.rootelement{
+    background:rgba(213, 225, 250, 0.8);
+    height: 100%;
+    .center{
+        background: #fff;
+        border:1px solid #ccc;
+        box-shadow: 10px 10px 5px #888888;
+        padding-bottom: 40px;
+        .yzmbutton{
+            position: relative;
+            width:126px;
+            height:40px;
+            font-size: 20px;
+            top:3px;
+            .yzm{
+                height: 14px;
+                width: 84px;
+                position: relative;
+                
+            }
+        }
+    }
+}

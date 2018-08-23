@@ -1,0 +1,21 @@
+.articlelook{
+    max-height: 580px;
+    overflow-x: hidden;
+    background: #fff;
+    div.clearfix{
+        background: #F0F0F0;
+        .header{
+            height: 60px;
+            line-height: 60px;
+            padding-right: 30px;
+            
+        }
+        
+    }
+    .content{
+        padding-left: 20px;
+        .lh40{
+            line-height: 40px;
+        }
+    }
+}
